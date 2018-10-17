@@ -23,7 +23,7 @@ description              : "Kenny's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rkjones4/rkjones4.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/kenny_colombia.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "R. Kenny Jones"
   avatar           : "/assets/images/kenny_colombia_small.png"
-  bio              : "Machine Learning Engineer @ Facebook. Graduated from Williams College '17 with majors in Computer Science and English Literature."
+  bio              : #"Machine Learning Engineer @ Facebook. Graduated from Williams College '17 with majors in Computer Science and English Literature."
   location         : "SF Bay Area"
   email            : "rukjones4@gmail.com"
   links:

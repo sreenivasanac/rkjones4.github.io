@@ -1,13 +1,31 @@
 ---
-layout: archive
+layout: single
+author_profile: true
 ---
 
-{{ content }}
-
+<!--
+old home page, used archive layout
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
-
 {% include paginator.html %}
+-->
+{% capture md %}
+# Welcome!
+
+I'm currently a software developer at IBM Watson Health in Cambridge, MA.
+Prior to joining IBM, I received my BA in [Computer Science](https://csci.williams.edu/)
+with a concentration in [Cognitive Science](https://cogsci.williams.edu/) from
+Williams College.
+
+I'm interested in machine learning and natural language processing, especially
+applications in healthcare informatics. One of my current projects
+at IBM focuses on neural language model techniques to generate
+higher quality distributed representations of medical concepts.
+
+I am also interested in self-organizing adaptive dynamical systems and the
+conditions of emergence in cognition. I dabble in all things CS.
+
+{% endcapture %}
+{{md | markdownify }}

@@ -23,7 +23,7 @@ description              : "Kenny's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rkjones4/rkjones4.github.io"
-teaser                   : "/assets/images/kenny_colombia.jpg"
+teaser                   : #"/assets/images/kenny_colombia.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -57,8 +57,8 @@ staticman:
 reCaptcha:
   siteKey                :
   secret                 :
-#atom_feed:
-#  path                   : # blank (default) uses feed.xml
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
