@@ -23,7 +23,7 @@ description              : "Kenny's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rkjones4/rkjones4.github.io"
-teaser                   : "/assets/images/kenny_colombia.jpg"
+teaser                   : #"/assets/images/kenny_colombia.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -267,3 +267,32 @@ defaults:
       comments: # true
       share: true
       related: true
+   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      show_date: false
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      show_date: false
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      show_date: false
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      show_date: false

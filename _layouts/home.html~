@@ -3,29 +3,20 @@ layout: single
 author_profile: true
 ---
 
-<!--
-old home page, used archive layout
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-{% include paginator.html %}
--->
 {% capture md %}
 # Welcome!
 
-I'm currently a software developer at IBM Watson Health in Cambridge, MA.
-Prior to joining IBM, I received my BA in [Computer Science](https://csci.williams.edu/)
-with a concentration in [Cognitive Science](https://cogsci.williams.edu/) from
-Williams College.
+I'm currently a machine learning engineer working in the Social Good organization at Facebook. 
+Specifically I am part of the [charitable giving](http://facebook.com/fundraisers/) 
+efforts and I use machine learning to empower people on Facebook to raise money 
+for non-profit and personal causes that they care about. Before joining Facebook, I double majored in [Computer Science](https://csci.williams.edu/) and [English Literature](https://english.williams.edu/) at the wonderful Williams College.
 
-I'm interested in machine learning and natural language processing, especially
-applications in healthcare informatics. One of my current projects
-at IBM focuses on neural language model techniques to generate
-higher quality distributed representations of medical concepts.
+My high-level interests center around machine learning, especially in both applications of computer vision and improving the robustness and transparency of deep learning models. 
+My past academic research in machine learning has focused on deep generative networks (GANs) working mostly on image-based datasets. 
+At Facebook, I build and improve large-scale production rankings models across a multitude of domains (News Feed, NLP, etc...) 
 
-I am also interested in self-organizing adaptive dynamical systems and the
-conditions of emergence in cognition. I dabble in all things CS.
+Check out the "Projects" tab for more detailed explanations of my past work.
+
 
 {% endcapture %}
 {{md | markdownify }}

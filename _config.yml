@@ -267,3 +267,25 @@ defaults:
       comments: # true
       share: true
       related: true
+   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      show_date: false
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      show_date: false
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      show_date: false
