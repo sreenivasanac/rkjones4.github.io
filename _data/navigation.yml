@@ -1,8 +1,8 @@
 # main links
 main:
-   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Projects"
-     url: /year-archive/
-   - title: "CV"
-     url: /collection-archive/
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /pdfs/rkjones4_CV.pdf
+  - title: "About"
+    url: /about/
