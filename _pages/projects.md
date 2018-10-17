@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /about/
+permalink: /projects/
 toc: true
 toc_label: "Projects"
 ---
