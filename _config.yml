@@ -22,7 +22,7 @@ name                     : "R. Kenny Jones"
 description              : "Kenny's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "rkjones4/rkjones4.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,14 +102,14 @@ analytics:
 # Site Author
 author:
   name             : "R. Kenny Jones"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi Juli cutie ;)."
-  location         : "Everywhere"
-  email            :
+  avatar           : "/assets/images/kenny_colombia.jpg"
+  bio              : "Machine Learning Engineer @ Facebook. Graduated from Williams College '17 with a Computer Science and English Literature double major."
+  location         : "SF Bay Area"
+  email            : "rukjones4@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:rukjones4@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -118,13 +118,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/jones4TW"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/rkjones4"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kenny-jones-097a328a/"
 
 # Site Footer
 footer:
