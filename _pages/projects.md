@@ -1,6 +1,7 @@
 ---
 title: Projects
 permalink: /projects/
+toc: true
 ---
 
 
@@ -19,5 +20,7 @@ Lorem_impsumLorem_impsumLorem_impsumLorem_impsumLorem_impsumLorem_impsumLorem_im
 ## Project 3
 
 
+## Project 4
 
+what about this
 
