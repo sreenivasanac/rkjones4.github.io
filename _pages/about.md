@@ -5,6 +5,8 @@ permalink: /about/
 
 Bears, Beets, Battlestar Galactica.
 
+When not on a computer, I like to travel and be outdoors. 
+
 ![](assets/images/kenny_about.gif)
 
 ## Contact:
