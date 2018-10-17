@@ -11,12 +11,16 @@ toc_icon: "cog"
 
 ## GANGogh
 
-![GANGogh generated art](/assets/images/GANFlowers)
+![GANGogh generated art](/assets/images/GANFlowers.png)
 
 **Description**: WE MADE ART
+
 **Blog Post**: https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1
+
 **Code**: https://github.com/rkjones4/GANGogh
+
 **Languages**: Python
+
 **Collaborators**: Derrick Bonafilia
 
 
