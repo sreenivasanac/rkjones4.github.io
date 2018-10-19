@@ -13,15 +13,10 @@ toc_icon: "cog"
 
 ![music]( {{ "assets/images/gangogh_gif.gif"" | relative_url }})
 
-**Description**: WE MADE ART
 
-**Blog Post**: [Medium](https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1)
-
-**Code**: https://github.com/rkjones4/GANGogh
-
-**Languages**: Python
-
-**Collaborators**: Derrick Bonafilia
+Blog | Code | Framework | Collaborator
+--- | --- | --- | ---
+ [Medium](https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1) | [Github] (https://github.com/rkjones4/GANGogh) | PyTorch |  Derrick Bonafilia
 
 
 ## Music Genre Classification
