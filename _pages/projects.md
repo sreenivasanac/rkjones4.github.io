@@ -29,7 +29,7 @@ This is music
 
 PPT | Framework | Collaborator
 --- | --- | --- 
-![Genre Classification](/assets/pfs/genre.pdf) | TensorFlow | Derrick Bonafilia
+![Genre Classification](/assets/pdfs/genre.pdf) | TensorFlow | Derrick Bonafilia
 
 ## Facebook - Social Good ML
 
@@ -47,7 +47,7 @@ This is landscapes.
 
 Report | Language/Framework | Collaborator(s)
 --- | --- | ---
-[Terrain](https://www.cs.williams.edu/~morgan/cs371-f16/gallery/4-midterm/terrain/report.md.html) | C++/G3D | Melanie Subbiah, Yi-Tong Tseo, and Cole Erickson
+[Landscape Generation](https://www.cs.williams.edu/~morgan/cs371-f16/gallery/4-midterm/terrain/report.md.html) | C++/G3D | Melanie Subbiah, Yi-Tong Tseo, and Cole Erickson
 
 ## Simulating and Rending Water
 
@@ -57,7 +57,7 @@ This is water
 
 Video | Code | Language/Framework | Collaborator(s) 
 --- | --- | --- | -- 
-[water_video](https://www.youtube.com/watch?v=FS6nkQwO7pY) | [GitHub](https://github.com/YitongTseo/WaterSimulationAndRendering) | C++/G3D+Flex | Melanie Subbiah, Yi-Tong Tseo, and Cole Erickson
+[Water Video](https://www.youtube.com/watch?v=FS6nkQwO7pY) | [GitHub](https://github.com/YitongTseo/WaterSimulationAndRendering) | C++/G3D+Flex | Melanie Subbiah, Yi-Tong Tseo, and Cole Erickson
 
 # Programming
 
