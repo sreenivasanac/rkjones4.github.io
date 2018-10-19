@@ -1,8 +1,10 @@
 ---
+title: ""
 permalink: /projects/
 toc: true
 toc_label: "Projects"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
 
