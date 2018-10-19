@@ -18,7 +18,7 @@ The names Gogh, GanGogh
 
 Blog | Code | Framework | Collaborator
 --- | --- | --- | ---
- [Medium](https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1) | [Github](https://github.com/rkjones4/GANGogh) | PyTorch |  Derrick Bonafilia
+ [Medium](https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1) | [Github](https://github.com/rkjones4/GANGogh) | TensorFlow |  Derrick Bonafilia
 
 
 ## Music Genre Classification
@@ -26,6 +26,10 @@ Blog | Code | Framework | Collaborator
 ![music]( {{ "assets/images/music_gif.gif"" | relative_url }})
 
 This is music
+
+PPT | Framework | Collaborator
+--- | --- | --- 
+![mg_ppt](assets/pfs/genre.pdf) | TensorFlow | Derrick Bonafilia
 
 ## Facebook - Social Good ML
 
