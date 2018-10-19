@@ -29,7 +29,7 @@ This is music
 
 PPT | Framework | Collaborator
 --- | --- | --- 
-![mg_ppt](assets/pfs/genre.pdf) | TensorFlow | Derrick Bonafilia
+![Genre Classification](/assets/pfs/genre.pdf) | TensorFlow | Derrick Bonafilia
 
 ## Facebook - Social Good ML
 
@@ -45,11 +45,19 @@ This is FB
 
 This is landscapes.
 
+Report | Language/Framework | Collaborator(s)
+--- | --- | ---
+[Terrain](https://www.cs.williams.edu/~morgan/cs371-f16/gallery/4-midterm/terrain/report.md.html) | C++/G3D | Melanie Subbiah, Yi-Tong Tseo, and Cole Erickson
+
 ## Simulating and Rending Water
 
 ![water]( {{ "assets/images/water_gif.gif"" | relative_url }})
 
 This is water
+
+Video | Code | Language/Framework | Collaborator(s) 
+--- | --- | --- | -- 
+[water_video](https://www.youtube.com/watch?v=FS6nkQwO7pY) | [GitHub](https://github.com/YitongTseo/WaterSimulationAndRendering) | C++/G3D+Flex | Melanie Subbiah, Yi-Tong Tseo, and Cole Erickson
 
 # Programming
 
@@ -65,8 +73,13 @@ This is now valt.
 
 This is seamcarving
 
+Report | Collaborator(s)
+--- | ---
+[Seam Carving](/assets/pdfs/carving.pdf) | Zijie Zhu, Julia Goldman, Yiheng Zhang
+
 ## Customized A/B Testing Framework
 
 ![d3]( {{ "assets/images/deltoid_gif.gif"" | relative_url }})
 
 This is testing
+
