@@ -3,15 +3,11 @@ title: About Me
 permalink: /about/
 ---
 
-![travel]( {{ "assets/images/kenny_about.gif"" | relative_url }})
-
 ## Contact:
 
 Phone: 867-5309
 
 Email: rukjones4@gmail.com
-
-## Lists 
 
 Skills  |  Coursework | Research Interests
 --- | --- | ---
@@ -29,3 +25,21 @@ HTML | Statistics | Active Learning
  | Linear Algebra | Adversarial Learning
  | Discrete Math |
  | Computer Security |
+
+![travel]( {{ "assets/images/kenny_about.gif"" | relative_url }})
+
+# Beyond Computer Science
+
+Although I'm a Bay Area native who has been inundated with technology since birth, I do spend some of my time away from screens.
+When not on a computer, I greatly enjoy playing sports (mostly Volleyball and Basketball), spending time outdoors (hiking, swimming, body surfing, etc...), and debating literature and philosphy (free will, responsibility, moral impetus of fiction, etc...).
+
+I've listed a haphazard assortment of some of my thoughts in these areas below, although I make no claims about their accuracy, consistency or coherence. 
+
+[Free Will 1](/assets/pdfs/fw_2.pdf) 
+[Free Will 2](/assets/pdfs/fw_2.pdf) 
+[Free Will 3](/assets/pdfs/fw_2.pdf) 
+[Free Will 4](/assets/pdfs/fw_2.pdf) 
+[Friendship](/assets/pdfs/friendship.pdf)
+[Time](/assets/pdfs/time.pdf)
+[Weakness of Will](/assets/pdfs/akrasia.pdf)
+[Wittgenstein](/assets/pdfs/wittgenstein.pdf)
