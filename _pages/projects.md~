@@ -30,7 +30,7 @@ This is music
 
 PPT | Framework | Collaborator
 --- | --- | --- 
-![Genre Classification](/assets/pdfs/genre.pdf) | TensorFlow | Derrick Bonafilia
+[Genre Classification](/assets/pdfs/genre.pdf) | TensorFlow | Derrick Bonafilia
 
 ## Facebook - Social Good ML
 

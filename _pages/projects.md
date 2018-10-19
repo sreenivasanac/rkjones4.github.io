@@ -14,8 +14,10 @@ toc_sticky: true
 
 ![music]( {{ "assets/images/gangogh_gif.gif"" | relative_url }})
 
+*(6-month independent research project supervised by [Andrea Danyluk](http://www.cs.williams.edu/~andrea/ (https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.cs.williams.edu%2F~andrea%2F&h=AT2_535boEbT2cVjzG8cnXjNuMYBic-0sdD26_ldjJc7DkY34lxB5PdfGpFk5W1QLenQJ8moAcpdDOGabEnBko1_HPZi02Eftg0sgAGq-kChAp8XsjAYXoPeAv42V-2IfEv-PYjL)).*
+ 
+Generative Adversarial Networks are comprised of two deep neural networks pitted against one another in a zero-sum game. The aim of this project was to use GANs to generate novel pieces of art. The model was trained in tensorflow on a distribution of art pieces gathered from wikiart.org. Our architecture leveraged the power of the improved wasserstein metric in an extension of the typical AC-GAN framework that allowed us to condition our models on painting genre. In order to induce our generator to focus on learning the differences between genres, we additionally employed global conditioning and pre-training of the discriminator, which not only produced quality image samples in genres such as Flower Paintings and Landscapes, but also resulted in our discriminator outperforming the best literature accuracy values on the wikiart classification problem.
 
-The names Gogh, GanGogh
 
 Blog | Code | Framework | Collaborator
 --- | --- | --- | ---
