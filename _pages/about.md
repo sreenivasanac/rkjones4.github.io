@@ -31,9 +31,9 @@ Hg | Computer Security | Generative Networks
 # Beyond Computer Science
 
 Although I'm a Bay Area native who has been inundated with technology since birth, I do spend some of my time away from screens.
-When not on a computer, I greatly enjoy playing sports (mostly Volleyball and Basketball), spending time outdoors (hiking, swimming, body surfing, etc...), and debating literature and philosphy (free will, responsibility, moral impetus of fiction, etc...).
+When not on a computer, I greatly enjoy travelling (see above photos!), playing sports (mostly Volleyball and Basketball), spending time outdoors (hiking, swimming, body surfing, etc...), and debating literature and philosphy (free will, responsibility, moral impetus of fiction, etc...).
 
-I've listed a haphazard assortment of some of my thoughts in these areas below, although I make no claims about their accuracy, consistency or coherence. 
+I've listed a haphazard assortment of some of my thoughts on these latter areas below, although I make no claims about their accuracy, consistency or coherence. 
 
 [Free Will 1](/pdfs/fw_2.pdf) 
 [Free Will 2](/pdfs/fw_2.pdf) 
