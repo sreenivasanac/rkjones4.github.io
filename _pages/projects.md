@@ -48,7 +48,7 @@ The Charitable Giving team at Facebook has a mission to foster a global communit
 
 ## Procedurally Generated Landscapes
 
-![landscape]( {{ "assets/images/landscape_gif.gif"" | relative_url }})
+![landscape]( {{ "assets/images/landscape_gif_real.gif"" | relative_url }})
 
 *(2016 Graphics midterm project taught by [Morgan McGuire](https://www.cs.williams.edu/~morgan/)).*
 
