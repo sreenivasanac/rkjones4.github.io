@@ -14,9 +14,11 @@ toc_icon: "cog"
 ![music]( {{ "assets/images/gangogh_gif.gif"" | relative_url }})
 
 
+The names Gogh, GanGogh
+
 Blog | Code | Framework | Collaborator
 --- | --- | --- | ---
- [Medium](https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1) | [Github] (https://github.com/rkjones4/GANGogh) | PyTorch |  Derrick Bonafilia
+ [Medium](https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1) | [Github](https://github.com/rkjones4/GANGogh) | PyTorch |  Derrick Bonafilia
 
 
 ## Music Genre Classification
