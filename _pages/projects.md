@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 ## GANGogh
 
-![GANGogh generated art](/assets/images/GANFlowers.png)
+![music]( {{ "assets/images/gangogh_gif.gif"" | relative_url }})
 
 **Description**: WE MADE ART
 
@@ -24,18 +24,48 @@ toc_icon: "cog"
 **Collaborators**: Derrick Bonafilia
 
 
-## Project 2
+## Music Genre Classification
 
-Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum Lorem_impsum 
+![music]( {{ "assets/images/music_gif.gif"" | relative_url }})
 
+This is music
 
+## Facebook - Social Good ML
+
+![sg]( {{ "assets/images/sg_gif.gif"" | relative_url }})
+
+This is FB
 
 # Graphics
 
-## Project 3
+## Procedurally Generated Landscapes
 
+![landscape]( {{ "assets/images/landscape_gif.gif"" | relative_url }})
 
-## Project 4
+This is landscapes.
 
-what about this
+## Simulating and Rending Water
 
+![water]( {{ "assets/images/water_gif.gif"" | relative_url }})
+
+This is water
+
+# Programming
+
+## Encoding Information with Images and Memory
+
+![valt]( {{ "assets/images/mindburnr_gif.gif"" | relative_url }})
+
+This is now valt.
+
+## Seam Carving
+
+![sc]( {{ "assets/images/seamcarving_gif.gif"" | relative_url }})
+
+This is seamcarving
+
+## Customized A/B Testing Framework
+
+![d3]( {{ "assets/images/deltoid_gif.gif"" | relative_url }})
+
+This is testing
