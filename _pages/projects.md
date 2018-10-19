@@ -1,5 +1,4 @@
 ---
-title: Projects
 permalink: /projects/
 toc: true
 toc_label: "Projects"
