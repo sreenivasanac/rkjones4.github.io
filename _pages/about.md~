@@ -36,10 +36,10 @@ When not on a computer, I greatly enjoy playing sports (mostly Volleyball and Ba
 I've listed a haphazard assortment of some of my thoughts in these areas below, although I make no claims about their accuracy, consistency or coherence. 
 
 [Free Will 1](/pdfs/fw_2.pdf) 
-[Free Will 2](/assets/pdfs/fw_2.pdf) 
-[Free Will 3](/assets/pdfs/fw_2.pdf) 
-[Free Will 4](/assets/pdfs/fw_2.pdf) 
-[Friendship](/assets/pdfs/friendship.pdf)
-[Time](/assets/pdfs/time.pdf)
-[Weakness of Will](/assets/pdfs/akrasia.pdf)
-[Wittgenstein](/assets/pdfs/wittgenstein.pdf)
+[Free Will 2](/pdfs/fw_2.pdf) 
+[Free Will 3](/pdfs/fw_2.pdf) 
+[Free Will 4](/pdfs/fw_2.pdf) 
+[Friendship](/pdfs/friendship.pdf)
+[Time](/pdfs/time.pdf)
+[Weakness of Will](/pdfs/akrasia.pdf)
+[Wittgenstein](/pdfs/wittgenstein.pdf)
