@@ -34,7 +34,7 @@ In this project, we approached the problem of music genre classification as an i
 
 PPT | Framework | Collaborator
 --- | --- | --- 
-[Genre Classification](/assets/pdfs/genre.pdf) | TensorFlow | Derrick Bonafilia
+[Genre Classification](/pdfs/genre.pdf) | TensorFlow | Derrick Bonafilia
 
 ## Facebook - Social Good ML
 
@@ -90,7 +90,7 @@ Implemented Avidan and Shamir’s Seam Carving Algorithm in C++.
 
 Report | Collaborator(s)
 --- | ---
-[Seam Carving](/assets/pdfs/carving.pdf) | Zijie Zhu, Julia Goldman, Yiheng Zhang
+[Seam Carving](/pdfs/carving.pdf) | Zijie Zhu, Julia Goldman, Yiheng Zhang
 
 ## Customized A/B Testing Framework
 
