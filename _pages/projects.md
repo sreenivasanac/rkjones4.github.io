@@ -64,7 +64,7 @@ Report | Language/Framework | Collaborator(s)
 
 *(2016 Graphics final project taught by [Morgan McGuire](https://www.cs.williams.edu/~morgan/)).* 
 
-Our project was designed to both simulate and render realistic representations of water. The PBD particle simulation was backed by NVIDIA’s FleX engine, which output both locations of permanent water particles and transitory foam that was formed when neighboring particles had kinetic energies that surpassed a given threshold. With each iteration of the particle engine, surface meshes were re-generated using the marching cubes algorithm. The final rendering was done using path-tracing, and took into account Beer-Lambert coloring fake caustics, refraction, and reflection effects. 
+Our project was designed to both simulate and render realistic representations of water. The PBD particle simulation was backed by NVIDIA’s FleX engine, which output both locations of permanent water particles and transitory foam that was formed when neighboring particles had kinetic energies that surpassed a given threshold. With each iteration of the particle engine, surface meshes were re-generated using the marching cubes algorithm. The final rendering was done using path-tracing, and took into account Beer-Lambert coloring, fake caustics, refraction, and reflection effects. 
 
 Video | Code | Language/Framework | Collaborator(s) 
 --- | --- | --- | -- 
@@ -76,7 +76,7 @@ Video | Code | Language/Framework | Collaborator(s)
 
 ![valt]( {{ "assets/images/mindburnr_gif.gif"" | relative_url }})
 
-*(2015 Summer Research Assistant working with [Brent Heeringa] (http://www.cs.williams.edu/~heeringa/)).*
+*(2015 Summer Research Assistant working with [Brent Heeringa](http://www.cs.williams.edu/~heeringa/)).*
 
  Collaborated with Nola Gordon in assisting Brent build out a prototype system for helping people remember sensitive information through error-sensitive encodings in recognizable images. Most of our work centered around building out multiple variants of the service in preparing mechanical turk experiments and generalizing some of the back-end infrastructure. Brent now leads [Valt](https://valt.io/), which is a company based on this line of investigation.
 
